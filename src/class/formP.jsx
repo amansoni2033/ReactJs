@@ -1,6 +1,6 @@
 import React from 'react';
 
-export class Form extends React.Component{
+export default class Form extends React.Component{
    
     constructor()
         {

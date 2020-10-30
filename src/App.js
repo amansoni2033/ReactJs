@@ -5,14 +5,17 @@ import React from 'react';
 import './App.css';
 //import {Form} from './class/formP.jsx'
 //import Stopwatch from './functional/stopwatch.jsx'
-import Todo from './Practice/todolist.jsx'
+
 //import Table from './functional/table';
 //import Test from './functional1/form.jsx';
 //import Table from './functional/table.jsx';
 //import Counter from './class/counter.jsx';
+//import Rout from './router'
+ 
 function App() {
   return (
-    <Todo/>
+    
+  //  <Rout/>
     //<Table/>
     //<Clock/>
    // <Counter/>
