@@ -1,12 +1,28 @@
 .App {
   text-align: center;
-  column-gap: 4px ;
   
 }
 .counter{
   text-align: center;
 }
 
+.Todo{
+  text-align: center;
+  margin-top: 30px;
+}
+
+
+.Aman {
+  justify-content: center;
+  text-align: center;
+}
+
+.AMAN{
+  text-align: center;
+  margin-top: 30px;
+border: 20px;
+
+}
 
 
 @media (prefers-reduced-motion: no-preference) {
@@ -40,9 +56,25 @@
   }
 }
 body {
-  background-color:plum;
+  background-color:lightblue;
 }
 
 .div{
 text-align: center;
+
 }
+
+.todo{
+  text-align: center;
+ margin-top: 100px;
+ border: solid blue 5px;
+ width: 350px;
+
+}
+button:hover{
+  background-color:hotpink;
+}
+
+
+
+
